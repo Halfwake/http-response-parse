@@ -1,0 +1,7 @@
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 105
+Server: Werkzeug/0.14.1 Python/2.7.13
+Date: Thu, 01 Mar 2018 05:43:59 GMT
+
+{"message": "Bad checksum, expected [0], but got [<function checksum at 0x03FC29B0>].", "result": "fail"}
